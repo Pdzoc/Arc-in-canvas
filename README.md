@@ -69,4 +69,4 @@ These MDN articles will be useful:
 * [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 --------------------
 
-Created by: [Piotr Dzoć](https://github.com/Pdzoc)
+Created (for [dwyl](https://github.com/dwyl/)) by: [Piotr Dzoć](https://github.com/Pdzoc)
